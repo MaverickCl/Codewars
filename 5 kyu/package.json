@@ -1,0 +1,15 @@
+{
+  "name": "5-kyu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "jest-mock-random": "^1.1.1"
+  }
+}
